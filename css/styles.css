@@ -155,6 +155,7 @@ body{
 /** Gallery **/
 .gallery-section{width: 100%;}
 .animal-icon{
+    background-color: #228B22;
     width: 100%;
     height: 100px;
     display: flex;
