@@ -34,7 +34,7 @@ body{
     font-size: 30px;
     font-weight: 400;
 }
-.menu .logobox h1 > a > i{color:#f8b30e; margin-right: 10px;}
+.menu .logobox h1 > a > i{color:#228B22; margin-right: 10px;}
 .menu .list-container{margin-right: 30px;}
 .menu .list-container .lists{display: flex;}
 .menu .list-container .lists li{list-style: none;}
@@ -47,8 +47,8 @@ body{
     border-radius: 3px;
     transition: 300ms;
 }
-.menu .list-container .lists li a:hover{color:#f8b30e;}
-.menu .list-container .lists li a.active{color:#f8b30e;}
+.menu .list-container .lists li a:hover{color:#228B22;}
+.menu .list-container .lists li a.active{color:#228B22;}
 
 /** Img header **/
 .img-header{
@@ -84,7 +84,7 @@ body{
     font-size: 50px;
     font-weight: 400;
 }
-.img-header .welcome > h2 a > i{color:#f8b30e; margin-right: 10px;}
+.img-header .welcome > h2 a > i{color:#228B22; margin-right: 10px;}
 
 
 /** About Us **/
